@@ -1,0 +1,9 @@
+.btn{
+   width: 100%;
+}
+
+@media (max-width: 750px){
+    .col-md-8{
+       padding-top: 2rem;
+    }
+}
